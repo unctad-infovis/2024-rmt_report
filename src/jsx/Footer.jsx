@@ -21,7 +21,7 @@ function Footer() {
               </div>
               <ul>
                 <li>
-                  <a href="https://youtu.be/gH6i1venniM" target="_blank" rel="noreferrer">Français</a>
+                  <a href="https://youtu.be/4AFRNSPniqM" target="_blank" rel="noreferrer">Français</a>
                   {', '}
                   <a href="https://youtu.be/sJ-wxXwmSlg" target="_blank" rel="noreferrer">Español</a>
                   {', '}
@@ -47,7 +47,7 @@ function Footer() {
                 <li>
                   <a href="https://vimeo.com/1022047383" target="_blank" rel="noreferrer">English</a>
                   {', '}
-                  <a href="https://trello.com/1/cards/66ea989dbf21c10916cdffb1/attachments/6717cbfc23920bed26e18643/download/RMT_French.mp4" target="_blank" rel="noreferrer">Français</a>
+                  <a href="https://trello.com/1/cards/66ea989dbf21c10916cdffb1/attachments/671bbf397473e9673f6787b6/download/RMT_French.mp4" target="_blank" rel="noreferrer">Français</a>
                   {', '}
                   <a href="https://trello.com/1/cards/66ea989dbf21c10916cdffb1/attachments/6717cbe5ba1d4adf22b43d40/download/RMT_Spanish.mp4" target="_blank" rel="noreferrer">Español</a>
                   {', '}
