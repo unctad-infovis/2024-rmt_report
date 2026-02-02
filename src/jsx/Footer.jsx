@@ -17,31 +17,14 @@ function Footer() {
             <div className="footer_content anchor_videos" id="anchor_videos">
               <h3>Watch the videos</h3>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/PLzwchtLJSk" title="Review of Maritime Transport 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
+                <iframe
+                  src="https://player.vimeo.com/video/1022047383?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                  frameBorder="0"
+                  allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+                  title="Review of Maritime Transport 2024: Navigating maritime chokepoints"
+                />
+                <script src="https://player.vimeo.com/api/player.js" />
               </div>
-              <ul>
-                <li>
-                  <a href="https://youtu.be/4AFRNSPniqM" target="_blank" rel="noreferrer">Français</a>
-                  {', '}
-                  <a href="https://youtu.be/sJ-wxXwmSlg" target="_blank" rel="noreferrer">Español</a>
-                  {', '}
-                  <a href="https://youtu.be/FTeIOjzp-n0" target="_blank" rel="noreferrer">العربية</a>
-                  {', '}
-                  <a href="https://youtu.be/1g-ia7rZUEs" target="_blank" rel="noreferrer">简体中文</a>
-                  {', '}
-                  <a href="https://youtu.be/wBrYD3gfPRc" target="_blank" rel="noreferrer">Русский</a>
-                  {', '}
-                  <a href="https://youtu.be/oLIUDxnL3hg" target="_blank" rel="noreferrer">Português</a>
-                  {', '}
-                  <a href="https://youtu.be/qzywOEqyvwI" target="_blank" rel="noreferrer">Kiswahili</a>
-                  {', '}
-                  <a href="https://youtu.be/hmkbO7Z2kVs" target="_blank" rel="noreferrer">Urdu اردو</a>
-                  {', '}
-                  <a href="https://youtu.be/IxnQGmlbXGw" target="_blank" rel="noreferrer">Hindi हिंदी</a>
-                  {', '}
-                  <a href="https://youtu.be/siCd0BVBh_c" target="_blank" rel="noreferrer">Deutsch</a>
-                </li>
-              </ul>
               <h4>Download the report video</h4>
               <ul>
                 <li>
